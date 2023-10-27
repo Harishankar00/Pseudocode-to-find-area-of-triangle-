@@ -1,0 +1,6 @@
+# Pseudocode-to-find-area-of-triangle-
+BEGIN
+     GET the  value of Height H,Breadt B
+     COMPUTE Area = 1/2*B*H
+     DISPLAY Area
+END
